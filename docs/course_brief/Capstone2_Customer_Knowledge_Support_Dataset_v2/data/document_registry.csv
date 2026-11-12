@@ -1,0 +1,8 @@
+document_id,title,file_name,format,status,version,policy_id,product_scope,region_scope,document_type,effective_date,supersedes_document_id
+DOC-001,Customer Support Operating Manual,01_Customer_Support_Operating_Manual.docx,DOCX,CURRENT,3.2,CS-OPS-001,All,Global,Operating Policy,,
+DOC-002,"Refunds, Credits and Billing Adjustments Policy",02_Refunds_Credits_Billing_Adjustments_Policy.pdf,PDF,CURRENT,4.1,FIN-BILL-014,All,Global,Billing Policy,2026-07-01,DOC-099
+DOC-003,Identity Verification and Account Access Standard,03_Identity_Verification_Account_Access_Standard.docx,DOCX,CURRENT,5.0,SEC-IAM-022,All,Global,Security Standard,,
+DOC-004,"Subscription, Entitlement and Product Support Guide",04_Subscription_Entitlement_Product_Support_Guide.pdf,PDF,CURRENT,3.5,CX-SUB-031,Core;SecureConnect;DataCloud;Insights,Global,Product Guide,,
+DOC-005,Service Incident and Performance Support Runbook,05_Service_Incident_Performance_SLA_Runbook.docx,DOCX,CURRENT,6.0,OPS-INC-017,All,Global,Runbook,,
+DOC-006,Customer Privacy and Data Request Procedure,06_Customer_Privacy_Data_Request_Procedure.pdf,PDF,CURRENT,4.4,PRIV-DSR-009,All,Global,Privacy Procedure,,
+DOC-099,ARCHIVED - Refund and Service Credit Policy,99_ARCHIVED_Refund_Service_Credit_Policy.docx,DOCX,ARCHIVED,2.7,FIN-BILL-014,All,Global,Billing Policy,,
