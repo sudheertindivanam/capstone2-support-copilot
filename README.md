@@ -57,6 +57,7 @@ Requires: Docker with Docker Compose, Python 3.10+.
 ## Progress
 
 - [x] Step 1: Database set up and structured data loaded
+- [x] Step 2: Statement of Work and project plan
 - [ ] Step 3: Document ingestion and chunking
 - [ ] Step 4: Embeddings and hybrid search
 - [ ] Step 5: Reranking and retrieval evaluation
