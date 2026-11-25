@@ -9,7 +9,7 @@ from dotenv import load_dotenv
 PROJECT_ROOT = Path(__file__).resolve().parent.parent
 DATA_DIR = PROJECT_ROOT / "docs/course_brief/Capstone2_Customer_Knowledge_Support_Dataset_v2/data"
 TABLES = ["products", "customers", "accounts", "entitlements",
-          "support_agents", "support_tickets", "ticket_events"]
+          "support_agents", "support_tickets", "ticket_events", "document_registry"]
 
 
 def count_csv_rows(path):

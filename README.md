@@ -31,6 +31,7 @@ Requires: Docker with Docker Compose, Python 3.10+.
 3. Create the tables and load the data:
 ```bash
    docker exec -i capstone2-db psql -U copilot -d support_copilot < docs/course_brief/Capstone2_Customer_Knowledge_Support_Dataset_v2/schema_ddl.sql
+   docker exec -i capstone2-db psql -U copilot -d support_copilot < docs/course_brief/Capstone2_Customer_Knowledge_Support_Dataset_v2/document_registry_ddl.sql
    ./scripts/load_data.sh
 ```
 4. Set up Python:
